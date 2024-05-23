@@ -40,7 +40,7 @@ publication_types: ['conference']
 
 # Publication name and optional abbreviated publication name.
 publication:  CAAI International Conference on Artificial Intelligence
-publication_short: CICAI 2023, *Best Paper Runner-up Award*
+publication_short: In *CICAI 2023*, <font color=#FF0000>**(Oral & Best Paper Runner-up Award)**</font>
 
 abstract: Nowadays, autonomous cars can drive smoothly in ordinary cases, and it is widely recognized that realistic sensor simulation will play a critical role in solving remaining corner cases by simulating them. To this end, we propose an autonomous driving simulator based upon neural radiance fields (NeRFs). Compared with existing works, ours has three notable features":" (1) Instance-aware. Our simulator models the foreground instances and background environments separately with independent networks so that the static (e.g., size and appearance) and dynamic (e.g., trajectory) properties of instances can be controlled separately. (2) Modular. Our simulator allows flexible switching between different modern NeRF-related backbones, sampling strategies, input modalities, etc. We expect this modular design to boost academic progress and industrial deployment of NeRF-based autonomous driving simulation. (3) Realistic. Our simulator set new state-of-the-art photo-realism results given the best module selection. Our simulator will be open-sourced while most of our counterparts are not.
 

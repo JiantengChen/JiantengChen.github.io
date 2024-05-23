@@ -35,7 +35,7 @@ interests:
 
 education:
   courses:
-    - course: BEng in Cyberspace Sci. & Tech.
+    - course: BEng in Cyberspace SciTech
       institution: Beijing Institute of Technology
       year: 2021 - Present
     # - course: Exchange Program in Computer Science
