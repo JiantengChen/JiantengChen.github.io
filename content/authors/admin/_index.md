@@ -20,9 +20,9 @@ superuser: true
 # role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Beijing Institute of Technology
-    url: https://www.bit.edu.cn/
+# organizations:
+#   - name: Beijing Institute of Technology
+#     url: https://www.bit.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -32,6 +32,15 @@ interests:
   - Neural Representation
   - Dynamic Scene Reconstruction
   - Autonomous Driving Simulation
+
+education:
+  courses:
+    - course: BEng in Cyberspace Sci. & Tech.
+      institution: Beijing Institute of Technology
+      year: 2021 - Present
+    # - course: Exchange Program in Computer Science
+    #   institution: The Hong Kong University of Science and Technology
+    #   year: 2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

@@ -23,6 +23,7 @@ url_pdf: 'https://arxiv.org/pdf/2307.15058'
 url_slides: ''
 url_video: 'https://www.youtube.com/watch?v=AdC-jglWvfU&feature=youtu.be'
 
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

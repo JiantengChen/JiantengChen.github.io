@@ -65,37 +65,38 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: experience
-    id: education
-    content: 
-      title: Education Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Exchange Program
-          company: The Hong Kong University of Science and Technology
-          company_url: 'https://hkust.edu.hk/'
-          location: Hong Kong, China
-          date_start: '2024-08-28'
-          date_end: ''
-        - title: Bachelor of Engineering
-          company: Beijing Institute of Technology
-          company_url: 'https://www.bit.edu.cn/'
-          location: Beijing, China
-          date_start: '2021-08-27'
-          date_end: ''
-    design:
-      columns: '2'
+
+  # - block: experience
+  #   id: education
+  #   content: 
+  #     title: Education Experience
+  #     # Date format for experience
+  #     #   Refer to https://docs.hugoblox.com/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: Exchange Program
+  #         company: The Hong Kong University of Science and Technology
+  #         company_url: 'https://hkust.edu.hk/'
+  #         location: Hong Kong, China
+  #         date_start: '2024-08-28'
+  #         date_end: ''
+  #       - title: Bachelor of Engineering
+  #         company: Beijing Institute of Technology
+  #         company_url: 'https://www.bit.edu.cn/'
+  #         location: Beijing, China
+  #         date_start: '2021-08-27'
+  #         date_end: ''
+  #   design:
+  #     columns: '2'
   - block: experience
     id: experience
-    content:
-      title: Work Experience
+    content: 
+      title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -105,14 +106,25 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Intern
+          company: Institute for AI Industry Research (AIR) at Tsinghua University
+          company_url: 'https://air.tsinghua.edu.cn/'
+          location: Beijing, China
+          date_start: '2023-04-28'
+          date_end: ''
+        - title: Research Intern
+          company: Great Bay University (GBU)
+          company_url: 'https://www.gbu.edu.cn/'
+          # location: Beijing, China
+          date_start: '2024-04-28'
+          date_end: ''
         - title: Intern Engineer
           company: Lightwheel AI
           company_url: 'https://www.lightwheel.net/'
           # company_logo: org-gc
-          location: Beijing, China
+          # location: Beijing, China
           date_start: '2024-05-22'
           date_end: ''
-          description: Working on Autonomous Driving Simulation
     design:
       columns: '2'
   # - block: accomplishments
@@ -184,13 +196,13 @@ sections:
   #     # Choose a layout view
   #     view: compact
   #     columns: '2'
-  # - block: portfolio
-  #   id: projects
-  #   content:
-  #     title: Projects
-  #     filters:
-  #       folders:
-  #         - project
+  - block: portfolio
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       # default_button_index: 0
       # Filter toolbar (optional).
@@ -198,18 +210,18 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-    #   buttons:
-    #     - name: All
-    #       tag: '*'
-    #     - name: Computer Vision
-    #       tag: Computer Vision
-    #     - name: Other
-    #       tag: Other
-    # design:
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Computer Vision
+          tag: Computer Vision
+        - name: Other
+          tag: Other
+    design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      # columns: '1'
-      # view: showcase
+      columns: '1'
+      view: showcase
       # For Showcase view, flip alternate rows?
-      # flip_alt_rows: false
+      flip_alt_rows: false
 
 ---
