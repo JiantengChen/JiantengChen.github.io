@@ -67,6 +67,16 @@ sections:
       view: citation
 
 
+  - block: markdown
+    id: services
+    content:
+      title: 'Academic Services'
+      subtitle: ''
+      text: |-
+        - 2024/06 - Reviewer @ BMVC 2024
+        
+    design:
+      columns: '2'
   - block: experience
     id: experience
     content: 

@@ -38,9 +38,9 @@ education:
     - course: BEng in Cyberspace SciTech
       institution: Beijing Institute of Technology
       year: 2021 - Present
-    # - course: Exchange Program in Computer Science
-    #   institution: The Hong Kong University of Science and Technology
-    #   year: 2024
+    - course: Exchange Program in Computer Science
+      institution: The Hong Kong University of Science and Technology
+      year: 2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
