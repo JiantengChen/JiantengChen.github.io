@@ -136,13 +136,6 @@ sections:
           # location: Beijing, China
           date_start: '2024-04-28'
           date_end: ''
-        - title: Intern Engineer
-          company: Lightwheel AI
-          company_url: 'https://www.lightwheel.net/'
-          # company_logo: org-gc
-          # location: Beijing, China
-          date_start: '2024-05-22'
-          date_end: ''
     design:
       columns: '2'
   # - block: accomplishments
