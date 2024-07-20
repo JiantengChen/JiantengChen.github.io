@@ -50,40 +50,40 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  # - block: collection
-  #   id: news
-  #   content:
-  #     title: Recent News
-  #     subtitle: ''
-  #     text: '
-  #     - 2024/03 - Rip-NeRF has been accepted by SIGGRAPH 2024. See project page [here](https://junchenliu77.github.io/Rip-NeRF/).
+  - block: collection
+    id: news
+    content:
+      title: Recent News
+      subtitle: ''
+      text: '
+      - 2024/03 - 🥳 [Rip-NeRF](https://junchenliu77.github.io/Rip-NeRF/) is accepted by **SIGGRAPH** 2024.
 
-  #     - 2023/07 - MARS has been accepted by CICAI 2023 and won best paper runner-up award. See project page [here](https://open-air-sun.github.io/mars/).
-  #     '
-  #     # Page type to display. E.g. post, talk, publication...
-  #     page_type: none
-  #     # Choose how many pages you would like to display (0 = all pages)
-  #     count: 5
-  #     # Filter on criteria
-  #     filters:
-  #       author: ""
-  #       category: ""
-  #       tag: ""
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ""
-  #     # Choose how many pages you would like to offset by
-  #     offset: 0
-  #     # Page order: descending (desc) or ascending (asc) date.
-  #     order: desc
-  #   design:
-  #     # Choose a layout view
-  #     view: date-title-summary
-  #     columns: '2'
-  #     # Reduce spacing
-  #     # spacing:
-  #     #   padding: [0, 0, 0, 0]
+      - 2023/07 - 🏆 [MARS](https://open-air-sun.github.io/mars/) is accepted by **CICAI** 2023 and won best paper runner-up award.
+      '
+      # Page type to display. E.g. post, talk, publication...
+      page_type: none
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: date-title-summary
+      columns: '2'
+      # Reduce spacing
+      # spacing:
+      #   padding: [0, 0, 0, 0]
   - block: collection
     id: publications
     content:
