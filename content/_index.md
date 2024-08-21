@@ -135,7 +135,7 @@ sections:
           company_url: 'https://www.gbu.edu.cn/'
           # location: Beijing, China
           date_start: '2024-04-28'
-          date_end: ''
+          date_end: '2024-08-30'
     design:
       columns: '2'
   # - block: accomplishments
