@@ -56,6 +56,8 @@ sections:
       title: Recent News
       subtitle: ''
       text: '
+      - 2024/09 - 🤖 [Robo-GS](https://robostudioapp.com/) is now available online. Visit our project page for more information.
+
       - 2024/03 - 🥳 [Rip-NeRF](https://junchenliu77.github.io/Rip-NeRF/) is accepted by **SIGGRAPH** 2024.
 
       - 2023/07 - 🏆 [MARS](https://open-air-sun.github.io/mars/) is accepted by **CICAI** 2023 and won best paper runner-up award.
