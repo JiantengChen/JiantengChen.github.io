@@ -6,7 +6,7 @@ authors:
   - Yurong Liu
   - Yike Pan
   - Yiran Geng
-  - Jianteng Chen
+  - admin
   - Wenlong Ma
   - Chenglong Li
   - Lin Wang
