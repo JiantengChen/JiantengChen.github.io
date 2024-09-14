@@ -3,7 +3,7 @@
 title: Jianteng Chen
 
 # Name pronunciation (optional)
-name_pronunciation: Jee-an-tung Chen
+# name_pronunciation: Jee-an-tung Chen
 
 # Full name (for SEO)
 # first_name: Shiung Wu
@@ -118,8 +118,6 @@ highlight_name: true
 ---
 Jianteng Chen is a Senior undergraduate student majoring Cyberspace Science and Technology in Beijing Institute of Technology (BIT). He is current at an exchange program in HKUST, with a major in computer science.
 
-He is currently a research intern at the Vision, Graphics, and X Group (Vision & Graphics & X or VGX) at Great Bay University (GBU), supervised by Prof. [Guangcong Wang](https://wanggcong.github.io/index.html).
-
-He has been interned at the DISCOVER Lab, Institute for AI Industry Research (AIR), Tsinghua University, under the supervision of Prof. [Hao Zhao](https://sites.google.com/view/fromandto).
+He was a research intern at the VGX Group at Great Bay University (GBU), working on generalizable dynamic view synthesis, supervised by Prof. [Guangcong Wang](https://wanggcong.github.io/index.html). He has been also interned at the DISCOVER Lab, AIR, Tsinghua University, under the supervision of Prof. [Hao Zhao](https://sites.google.com/view/fromandto), working on autonomous driving scene reconstruction and sumilation.
 
 {style="text-align: justify;"}

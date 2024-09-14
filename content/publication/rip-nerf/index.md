@@ -45,9 +45,11 @@ tags:
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Project Page
+  url: https://junchenliu77.github.io/Rip-NeRF/
+
+
 
 url_pdf: 'https://arxiv.org/abs/2405.02386'
 url_code: 'https://github.com/JunchenLiu77/Rip-NeRF'

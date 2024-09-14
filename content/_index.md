@@ -138,6 +138,12 @@ sections:
           # location: Beijing, China
           date_start: '2024-04-28'
           date_end: '2024-08-30'
+        - title: Internship
+          company: NIO
+          company_url: 'https://www.nio.com/?noredirect='
+          location: Shanghai, China
+          date_start: '2024-09-09'
+          date_end: ''
     design:
       columns: '2'
   # - block: accomplishments

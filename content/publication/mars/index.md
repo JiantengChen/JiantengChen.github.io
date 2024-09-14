@@ -53,9 +53,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Project Page
+  url: https://open-air-sun.github.io/mars/
 
 url_pdf: 'https://arxiv.org/pdf/2307.15058'
 url_code: 'https://github.com/OPEN-AIR-SUN/mars'
