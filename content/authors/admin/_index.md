@@ -103,9 +103,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/jiantengchen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/%E5%BB%BA%E8%85%BE-%E9%99%88-778a70306/
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/in/%E5%BB%BA%E8%85%BE-%E9%99%88-778a70306/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
