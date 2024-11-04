@@ -118,6 +118,6 @@ highlight_name: true
 ---
 Jianteng Chen is a Senior undergraduate student majoring Cyberspace Science and Technology in Beijing Institute of Technology (BIT). He is current at an exchange program in HKUST, with a major in computer science.
 
-He was a research intern at the VGX Group at Great Bay University (GBU), working on generalizable dynamic view synthesis, supervised by Prof. [Guangcong Wang](https://wanggcong.github.io/index.html). He has been also interned at the DISCOVER Lab, AIR, Tsinghua University, under the supervision of Prof. [Hao Zhao](https://sites.google.com/view/fromandto), working on autonomous driving scene reconstruction and sumilation.
+He is current a intern engineer at NIO. He was a research intern at the VGX Group, Great Bay University, supervised by Prof. [Guangcong Wang](https://wanggcong.github.io/index.html). He has been also interned at the DISCOVER Lab, AIR, Tsinghua University, under the supervision of Prof. [Hao Zhao](https://sites.google.com/view/fromandto), working on autonomous driving scene reconstruction and sumilation.
 
 {style="text-align: justify;"}
