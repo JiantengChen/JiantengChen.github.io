@@ -133,9 +133,8 @@ sections:
           date_start: '2023-04-28'
           date_end: '2024-05-31'
         - title: Research Intern
-          company: Great Bay University (GBU)
-          company_url: 'https://www.gbu.edu.cn/'
-          # location: Beijing, China
+          company: VGX Group, Great Bay University (GBU)
+          company_url: 'https://wanggcong.github.io/team.html'
           date_start: '2024-04-28'
           date_end: '2024-08-30'
         - title: Internship

@@ -30,8 +30,8 @@ superuser: true
 # Interests to show in About widget
 interests:
   - Neural Representation
-  - Dynamic Scene Reconstruction
-  - Autonomous Driving Simulation
+  - 3D Conputer Vision
+  - Generative Model
 
 education:
   courses:
@@ -116,8 +116,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Jianteng Chen is a Senior undergraduate student majoring Cyberspace Science and Technology in Beijing Institute of Technology (BIT). He is current at an exchange program in HKUST, with a major in computer science.
+Jianteng Chen is a Senior undergraduate student at Beijing Institute of Technology (BIT). He is current at an exchange program in HKUST, with a major in computer science.
 
-He is current an intern at NIO. He was a research intern at the VGX Group, Great Bay University, supervised by Prof. [Guangcong Wang](https://wanggcong.github.io/index.html). He had also been interned at the DISCOVER Lab, AIR, Tsinghua University, under the supervision of Prof. [Hao Zhao](https://sites.google.com/view/fromandto), working on autonomous driving scene reconstruction and sumilation.
+He is current an intern at [NIO](https://www.nio.com/). He was a research intern at the VGX Group, supervised by Prof. [Guangcong Wang](https://wanggcong.github.io/index.html). He had also been interned at the DISCOVER Lab, AIR, Tsinghua University, under the supervision of Prof. [Hao Zhao](https://sites.google.com/view/fromandto).
 
 {style="text-align: justify;"}
