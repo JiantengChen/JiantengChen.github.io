@@ -56,6 +56,10 @@ sections:
       title: Recent News
       subtitle: ''
       text: '
+      - 2024/12 - I have finished the exchange program at HKUST, much larger workload than BIT.
+
+      - 2024/09 - I have joined NIO Inc. at Shanghai as a intern engineer.
+      
       - 2024/09 - 🤖 [Robostudio](https://robostudioapp.com/) is now available online. Visit our project page for more information.
 
       - 2024/03 - 🥳 [Rip-NeRF](https://junchenliu77.github.io/Rip-NeRF/) is accepted by **SIGGRAPH** 2024.
