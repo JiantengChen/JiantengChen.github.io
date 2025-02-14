@@ -58,9 +58,7 @@ sections:
       text: '
       - 2025/01 - 🎉 [Robo-GS](https://robostudioapp.com/) is accepted by **ICRA** 2025.
 
-      - 2024/12 - I have finished the exchange program at HKUST, much larger workload than BIT.
-
-      - 2024/09 - I have joined NIO Inc. at Shanghai as an intern engineer.
+      - 2024/09 - I have joined NIO Inc. at Shanghai as an engineering intern.
       
       - 2024/09 - 🤖 [Robostudio](https://robostudioapp.com/) is now available online. Visit our project page for more information.
 
