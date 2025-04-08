@@ -1,46 +1,45 @@
 ---
-title: 'Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids'
+title: '3D Gaussian Inverse Rendering with Approximated Global Illumination'
 
 authors:
-  - Junchen Liu
-  - Wenbo Hu
-  - Zhuo Yang
+  - Zirui Wu
   - admin
-  - Guoliang Wang
-  - Xiaoxue Chen
-  - Yantong Cai
-  - Huan-ang Gao
-  - Hao Zhao
+  - Laijian Li
+  - Shaoteng Wu
+  - Zhikai Zhu
+  - Kang Xu
+  - Martin R. Oswald
+  - Jie Song
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
+  # - 'Equal contribution'
+  # - 'Equal contribution'
+  # - 'Equal contribution'
 
 # date: '20-07-01T00:00:00Z'
 # doi: '10.1007/978-981-99-8850-1_1'
-doi: '10.1145/3641519.3657402'
+doi: '10.48550/arXiv.2504.01358'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-04-01T00:00:00Z'
+publishDate: '2025-04-02T05:02:25Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['conference']
+publication_types: ['preprint']
 
 # Publication name and optional abbreviated publication name.
-publication: ACM Transactions on Graphics SIGGRAPH 2024
-publication_short: In *SIGGRAPH 2024* 
+publication: Arxiv Preprint
+publication_short: Arxiv Preprint
 
-abstract: Despite significant advancements in Neural Radiance Fields (NeRFs), the renderings may still suffer from aliasing and blurring artifacts, since it remains a fundamental challenge to effectively and efficiently characterize anisotropic areas induced by the cone-casting procedure. This paper introduces a Ripmap-Encoded Platonic Solid representation to precisely and efficiently featurize 3D anisotropic areas, achieving high-fidelity anti-aliasing renderings. Central to our approach are two key components":" Platonic Solid Projection and Ripmap encoding. The Platonic Solid Projection factorizes the 3D space onto the unparalleled faces of a certain Platonic solid, such that the anisotropic 3D areas can be projected onto planes with distinguishable characterization. Meanwhile, each face of the Platonic solid is encoded by the Ripmap encoding, which is constructed by anisotropically pre-filtering a learnable feature grid, to enable featurzing the projected anisotropic areas both precisely and efficiently by the anisotropic area-sampling. Extensive experiments on both well-established synthetic datasets and a newly captured real-world dataset demonstrate that our Rip-NeRF attains state-of-the-art rendering quality, particularly excelling in the fine details of repetitive structures and textures, while maintaining relatively swift training times.
+abstract: 3D Gaussian Splatting shows great potential in reconstructing photo-realistic 3D scenes. However, these methods typically bake illumination into their representations, limiting their use for physically-based rendering and scene editing. Although recent inverse rendering approaches aim to decompose scenes into material and lighting components, they often rely on simplifying assumptions that fail when editing. We present a novel approach that enables efficient global illumination for 3D Gaussians Splatting through screen-space ray tracing. Our key insight is that a substantial amount of indirect light can be traced back to surfaces visible within the current view frustum. Leveraging this observation, we augment the direct shading computed by 3D Gaussians with Monte-Carlo screen-space ray-tracing to capture one-bounce indirect illumination. In this way, our method enables realistic global illumination without sacrificing the computational efficiency and editability benefits of 3D Gaussians. Through experiments, we show that the screen-space approximation we utilize allows for indirect illumination and supports real-time rendering and editing. Code, data, and models will be made available at our project page.
 
 # Summary. An optional shortened abstract.
-summary: A Ripmap-Encoded Platonic Solid representation to precisely and efficiently featurize 3D anisotropic areas, achieving high-fidelity anti-aliasing renderings and excelling in the fine details of repetitive structures and textures.
+summary: debug
 
 tags:
-- Anti-Aliasing
+- Inverse Rendering
 
 # Display this page in the Featured widget?
 featured: false
@@ -48,23 +47,23 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Project Page
-  url: https://junchenliu77.github.io/Rip-NeRF/
+  url: https://wuzirui.github.io/gs-ssr/
 
 
 
-url_pdf: 'https://arxiv.org/abs/2405.02386'
-url_code: 'https://github.com/JunchenLiu77/Rip-NeRF'
-url_dataset: 'https://drive.google.com/file/d/1lmLJ7VN-Fbyohgdcrl7WMDj3gPk3WgUg/edit'
+url_pdf: 'https://arxiv.org/abs/2504.01358'
+url_code: 'https://github.com/wuzirui/gs-ssr'
+url_dataset: ''
 url_poster: ''
-url_project: 'https://junchenliu77.github.io/Rip-NeRF/'
+url_project: 'https://wuzirui.github.io/gs-ssr/'
 # url_slides: ''
 # url_source: ''
-url_video: 'https://www.youtube.com/watch?v=VeZTbQwMFRs'
+url_video: 'https://youtu.be/i0SmXJH1uwI?si=2Joi0OdjFyYE15oG'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Rip-NeRF**](https://junchenliu77.github.io/Rip-NeRF/)'
+  caption: 'Image credit: [**GS-SSR**](https://wuzirui.github.io/gs-ssr/)'
   focal_point: ''
   preview_only: false
 

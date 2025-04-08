@@ -56,6 +56,8 @@ sections:
       title: Recent News
       subtitle: ''
       text: '
+      - 2025/04 - 🪞 [GS-SSR](https://wuzirui.github.io/gs-ssr/) is now available online. Checkout project page for more information.
+
       - 2025/01 - 🎉 [Robo-GS](https://robostudioapp.com/) is accepted by **ICRA** 2025.
 
       - 2024/09 - I have joined NIO Inc. at Shanghai as an engineering intern.
