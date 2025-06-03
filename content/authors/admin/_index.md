@@ -116,8 +116,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Jianteng Chen is a Senior undergraduate student at Beijing Institute of Technology (BIT). He is current an intern at [NIO](https://www.nio.com/).
+I will join [NIO](https://www.nio.com/) as an Associate Engineer in July 2025, where I am currently an intern. My research interests lie in 3D Computer Vision, Generative Models, and Autonomous Driving.
 
-He had been exchanged at HKUST. He was a research intern at Great Bay University, supervised by Prof. [Guangcong Wang](https://wanggcong.github.io/index.html). He had also been interned at AIR, Tsinghua University, under the supervision of Prof. [Hao Zhao](https://sites.google.com/view/fromandto).
+Before joining NIO, I receive my bachelor's degree from Beijing Institute of Technology (BIT) in June 2025. Prior to that, I participated in an exchange program at the Hong Kong University of Science and Technology (HKUST). During my academic journey, I gained valuable research experience through internships at Great Bay University under the supervision of Prof. [Guangcong Wang](https://wanggcong.github.io/index.html), and at AIR, Tsinghua University, working with Prof. [Hao Zhao](https://sites.google.com/view/fromandto).
 
 {style="text-align: justify;"}
