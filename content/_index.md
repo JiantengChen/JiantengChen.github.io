@@ -116,6 +116,7 @@ sections:
       subtitle: ''
       text: |-
         - 2024/06 - Reviewer @ BMVC 2024
+        - 2025/06 - Reviewer @ BMVC 2025
         
     design:
       columns: '2'
