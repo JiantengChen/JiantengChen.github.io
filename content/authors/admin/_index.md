@@ -116,8 +116,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently an associate engineer at [NIO](https://www.nio.com/). My research interests lie in 3D Computer Vision, Generative Models, and Autonomous Driving.
+I am an Algorithm Engineer at [NIO](https://www.nio.com/), focusing on 3D reconstruction and generative models. I received my B.Eng. from Beijing Institute of Technology (BIT) in June 2025, with an exchange at the Hong Kong University of Science and Technology (HKUST).
 
-I have received my bachelor's degree from Beijing Institute of Technology (BIT) in June 2025. Prior to that, I participated in an exchange program at the Hong Kong University of Science and Technology (HKUST). During my academic journey, I gained valuable research experience through internships at Great Bay University under the supervision of Prof. [Guangcong Wang](https://wanggcong.github.io/index.html), and at AIR, Tsinghua University, working with Prof. [Hao Zhao](https://sites.google.com/view/fromandto).
+I previously interned at Great Bay University with [Prof. Guangcong Wang](https://wanggcong.github.io/index.html) and at AIR, Tsinghua University with [Prof. Hao Zhao](https://sites.google.com/view/fromandto), working on neural rendering and autonomous driving simulation.
+
 
 {style="text-align: justify;"}
