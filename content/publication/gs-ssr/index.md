@@ -27,16 +27,16 @@ publishDate: '2025-04-02T05:02:25Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['preprint']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: Arxiv Preprint
-publication_short: Arxiv Preprint
+publication: SAD Workshop @ CVPR 2026
+publication_short: SAD Workshop @ CVPR 2026
 
 abstract: 3D Gaussian Splatting shows great potential in reconstructing photo-realistic 3D scenes. However, these methods typically bake illumination into their representations, limiting their use for physically-based rendering and scene editing. Although recent inverse rendering approaches aim to decompose scenes into material and lighting components, they often rely on simplifying assumptions that fail when editing. We present a novel approach that enables efficient global illumination for 3D Gaussians Splatting through screen-space ray tracing. Our key insight is that a substantial amount of indirect light can be traced back to surfaces visible within the current view frustum. Leveraging this observation, we augment the direct shading computed by 3D Gaussians with Monte-Carlo screen-space ray-tracing to capture one-bounce indirect illumination. In this way, our method enables realistic global illumination without sacrificing the computational efficiency and editability benefits of 3D Gaussians. Through experiments, we show that the screen-space approximation we utilize allows for indirect illumination and supports real-time rendering and editing. Code, data, and models will be made available at our project page.
 
 # Summary. An optional shortened abstract.
-summary: debug
+summary: 3D Gaussian inverse rendering with approximated global illumination via screen-space ray tracing.
 
 tags:
 - Inverse Rendering
@@ -73,12 +73,12 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - []
+  []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: “
+slides: ""
 ---
